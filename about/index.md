@@ -6,7 +6,7 @@ date: 2016-10-05
 comments: false
 ---
 
-Brazilian, born in 1990, passionate about coding and tech mainly focused on solving web challenges.
+Brazilian, born in 1990, passionate about developiung web solutions.
 
 Fan of scripting languages such as JavaScript and Python and adept of TDD and BDD.
 
